@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1088183467026",
+    "firebase_url": "https://onhome-117de.firebaseio.com",
+    "project_id": "onhome-117de",
+    "storage_bucket": "onhome-117de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088183467026:android:65358b5489d469f8",
+        "android_client_info": {
+          "package_name": "tech.iwish.onhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088183467026-nuk5ki9up1llv0m1mh17p3hb32bsl1de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.iwish.onhome",
+            "certificate_hash": "5d642a101c9d8da2657e660396322dc6f9effd41"
+          }
+        },
+        {
+          "client_id": "1088183467026-8u58r3u8tjtrjnolhl4rfrunfmathsij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaiDGW6pD0Ladj4Ke5DFQy60yvouyComs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088183467026-8u58r3u8tjtrjnolhl4rfrunfmathsij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

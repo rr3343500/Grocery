@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\E\\newprojects\\GroceryDemo\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\E\\newprojects\\GroceryDemo\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "14,16,2,11,13,17,12,15,4,10,3,5,8,7,6,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "619,737,19,474,566,790,516,683,126,423,75,178,325,276,228,373",
+                        "endColumns": "62,51,54,40,51,56,48,52,50,49,49,48,46,47,46,48",
+                        "endOffsets": "677,784,69,510,613,842,560,731,172,468,120,222,367,319,270,417"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,118,170,225,266,318,375,424,477,528,578,628,677,724,772,819",
+                        "endColumns": "62,51,54,40,51,56,48,52,50,49,49,48,46,47,46,48",
+                        "endOffsets": "113,165,220,261,313,370,419,472,523,573,623,672,719,767,814,863"
+                    }
+                }
+            ]
+        }
+    ]
+}

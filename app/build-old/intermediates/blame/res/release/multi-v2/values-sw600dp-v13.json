@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\E\\newprojects\\GroceryDemo\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\iwish\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\3ab37c54325a735fb22a63acbb68a315\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,553,617,680",
+                        "endLines": "2,3,4,5,6,7,9,10,11,15",
+                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
+                        "endOffsets": "110,180,251,323,381,439,548,612,675,847"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,20,24,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "692,752,822,893,965,1023,1081,1190,1397,2117",
+                        "endLines": "12,13,14,15,16,17,19,20,24,39",
+                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
+                        "endOffsets": "747,817,888,960,1018,1076,1185,1249,1455,2284"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\iwish\\.gradle\\caches\\transforms-1\\files-1.1\\snackbar-2.11.0.aar\\3c703ddae990d3c44d16a08985e02822\\res\\values-sw600dp-v13\\values.xml",
+                    "from": {
+                        "startLines": "4,7,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "166,321,372,418",
+                        "endColumns": "42,50,45,45",
+                        "endOffsets": "204,367,413,459"
+                    },
+                    "to": {
+                        "startLines": "3,21,22,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "93,1254,1305,1351",
+                        "endColumns": "42,50,45,45",
+                        "endOffsets": "131,1300,1346,1392"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\iwish\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\94fa5788d2ae8fa4911a86d97a50d623\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "136,205,274,344,418,494,553,624",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "200,269,339,413,489,548,619,687"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\iwish\\.gradle\\caches\\transforms-1\\files-1.1\\checkout-1.5.2.aar\\471aa170f5bb9d6b695b2af53bb939b9\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,93",
+                        "endLines": "2,13",
+                        "endColumns": "37,12",
+                        "endOffsets": "88,745"
+                    },
+                    "to": {
+                        "startLines": "2,25",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1460",
+                        "endLines": "2,35",
+                        "endColumns": "37,12",
+                        "endOffsets": "88,2112"
+                    }
+                }
+            ]
+        }
+    ]
+}

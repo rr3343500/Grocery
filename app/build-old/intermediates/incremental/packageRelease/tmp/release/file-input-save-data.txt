@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Tue Jun 04 02:22:11 IST 2019
+2.base=D\:\\E\\newprojects\\GroceryDemo\\app\\build\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out
+5.set=ASSET
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=D\:\\E\\newprojects\\GroceryDemo\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+2.set=ASSET
+1.path=Font/Bold.otf
+4.base=D\:\\E\\newprojects\\GroceryDemo\\app\\build\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out
+count=6
+5.baseType=DIRECTORY
+2.path=Bold.ttf
+5.base=D\:\\E\\newprojects\\GroceryDemo\\app\\build\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out
+4.set=ASSET
+3.path=classes2.dex
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=Bold.otf
+1.baseType=DIRECTORY
+5.path=Font/Bold.ttf
+0.base=D\:\\E\\newprojects\\GroceryDemo\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=D\:\\E\\newprojects\\GroceryDemo\\app\\build\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out
+4.baseType=DIRECTORY
+0.set=DEX
