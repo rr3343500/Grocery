@@ -22,6 +22,7 @@ import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
+import com.chivorn.smartmaterialspinner.SmartMaterialSpinner;
 
 import org.json.JSONArray;
 
@@ -64,7 +65,7 @@ public class Product_adapter extends RecyclerView.Adapter<Product_adapter.MyView
     public class MyViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
         public TextView tv_title, tv_price, tv_reward, tv_total, tv_contetiy, tv_add , old_price;
         public ImageView iv_logo, iv_plus, iv_minus, iv_remove;
-        public Spinner  spinner;
+        public SmartMaterialSpinner spinner;
         public Double reward;
         String id;
 
@@ -85,7 +86,7 @@ public class Product_adapter extends RecyclerView.Adapter<Product_adapter.MyView
             iv_minus = (ImageView) view.findViewById(R.id.iv_subcat_minus);
             iv_remove = (ImageView) view.findViewById(R.id.iv_subcat_remove);
             iv_remove = (ImageView) view.findViewById(R.id.iv_subcat_remove);
-            spinner = (Spinner) view.findViewById(R.id.spinner);
+            spinner = (SmartMaterialSpinner) view.findViewById(R.id.spinner);
 
 
             iv_remove.setVisibility(View.GONE);

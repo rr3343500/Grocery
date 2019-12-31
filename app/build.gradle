@@ -84,6 +84,7 @@ dependencies {
     implementation 'commons-codec:commons-codec:1.10'
     implementation 'com.google.android.gms:play-services-appindexing:9.8.0'
     implementation files('libs/httpmime-4.2.5-sources.jar')
+    implementation 'com.github.chivorns:smartmaterialspinner:1.1.6'
 
 }
 // ADD THIS AT THE BOTTOM
